@@ -2,6 +2,8 @@
 
 Animations for Data Structures & Algorithms.
 
+I created this channel because the best way to internalize knowledge is by teaching it to other people in a succinct way. Likewise, it serves as proof-of-work that I have knowledge about data structures and algorithms. I wanted to create the highest possible quality videos I could with no pressure to release videos on a uploading schedule.
+
 [Link to Channel](https://www.youtube.com/channel/UCnUHAii_a98mvfgJxmPqzaA)
 
 # Installation
