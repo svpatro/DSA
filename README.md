@@ -1,17 +1,12 @@
 # DSA
 
----
-
 Animations for Data Structures & Algorithms.
 
----
-### Installation
+# Installation
 
 Install [Manim Community Edition](https://docs.manim.community/en/stable/installation.html#local-installation) on your respective platform.
 
----
-
-### Execution
+# Execution
 
 Depending on your platform, rendering the animation can be done in a few different ways.
 
