@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
-from manim import *
+# To run: manimce -qh test.py
 
+from manim import *
 
 class Test(Scene):
     def construct(self):
