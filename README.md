@@ -1,8 +1,15 @@
 # DSA
 
+---
+
+Animations for Data Structures & Algorithms.
+
+---
 ### Installation
 
 Install [Manim Community Edition](https://docs.manim.community/en/stable/installation.html#local-installation) on your respective platform.
+
+---
 
 ### Execution
 
